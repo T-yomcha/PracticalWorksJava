@@ -1,4 +1,4 @@
-package PractiсalWork.Pr1;
+package PractiсalWorks.Pr1;
 
 public class Ex6 {
     public static void main(String[] args) {
